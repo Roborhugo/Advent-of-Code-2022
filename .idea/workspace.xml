@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88141f08-dd76-430a-958f-d055023ea17d" name="Changes" comment="Changed package layout">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Day02/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Day02/main.scala" afterDir="false" />
+    <list default="true" id="88141f08-dd76-430a-958f-d055023ea17d" name="Changes" comment="Day 2: Rock Paper Scissors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Day02/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Day02/main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669995182064</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 2: Rock Paper Scissors">
+      <created>1669999491155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669999491155</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1: Calorie Counting" />
     <MESSAGE value="Changed package layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed package layout" />
+    <MESSAGE value="Day 2: Rock Paper Scissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2: Rock Paper Scissors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

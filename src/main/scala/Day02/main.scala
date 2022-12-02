@@ -4,7 +4,7 @@ import scala.io.Source
 
 @main
 def Main(args: String*): Unit =
-  val filename: String = if args.length == 0 then
+  val filename: String = if args.isEmpty then
     "src/main/scala/Day02/input.txt"
   else
     args(0)
@@ -21,7 +21,7 @@ def Main(args: String*): Unit =
 
   var actualTotalScore = 0
   for round <- input do
-    if(round._2 == 0) then
+    if round._2 == 0 then
       actualTotalScore += Math.floorMod(round._1 - 1, 3) + 1
     else if round._2 == 1 then
       actualTotalScore += round._1 + 1 + 3
