@@ -1,11 +1,11 @@
-package Day01.Main
+package Day01
 
 import scala.io.Source
 
 @main
 def Main(args: String*): Unit =
   val filename: String = if args.length == 0 then
-    "src/main/scala/Day01/Main/input.txt"
+    "src/main/scala/Day01/input.txt"
   else
     args(0)
 

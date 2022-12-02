@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88141f08-dd76-430a-958f-d055023ea17d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Day01/Main/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/advent-of-code-2022-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/advent-of-code-2022-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/advent-of-code-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/advent-of-code-2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+    <list default="true" id="88141f08-dd76-430a-958f-d055023ea17d" name="Changes" comment="Day 1: Calorie Counting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Day01/Main/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Day01/Main/main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/global-logging/sbt-global-log8389147717985152592.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Day01/Main/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Day01/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Day01/Main/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Day01/main.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +66,25 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/Day01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day01.Main">
+    <configuration name="Day01.Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Day01.Main" />
+      <module name="advent-of-code-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Day01.Main.Main" />
       <module name="advent-of-code-2022" />
@@ -118,6 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day01.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Scala REPL.Scala REPL" />
@@ -136,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669990274535</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 1: Calorie Counting">
+      <created>1669995041841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669995041841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1: Calorie Counting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1: Calorie Counting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
