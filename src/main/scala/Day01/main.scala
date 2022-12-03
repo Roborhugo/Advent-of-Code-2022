@@ -1,3 +1,5 @@
+//Calorie Counting
+
 package Day01
 
 import scala.io.Source

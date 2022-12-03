@@ -1,3 +1,5 @@
+//Rock Paper Scissors
+
 package Day02
 
 import scala.io.Source
